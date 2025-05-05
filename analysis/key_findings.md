@@ -18,7 +18,7 @@ We focus on four key research questions:
 
 📌 **Conclusion:** Home teams win **twice as often** as away teams and score **~0.67 more goals per match**.
 
-![Screenshot 1](analysis/images/1.1_screenshot.png)
+![Screenshot 1](images/1.1_screenshot.png)
 
 ![Screenshot 2](analysis/images/1.2_screenshot.png)
 
