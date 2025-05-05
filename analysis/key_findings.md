@@ -18,8 +18,9 @@ We focus on four key research questions:
 
 📌 **Conclusion:** Home teams win **twice as often** as away teams and score **~0.67 more goals per match**.
 
-![Home Win Rate by Decade]
-![Home Win Rate by Decade]
+![Home Win Rate by Decade](images/1.1 screenshot.png)
+
+![Home Win Rate by Decade](images/1.2 screenshot.png)
 
 ---
 
@@ -33,7 +34,7 @@ We analyzed matches across decades:
 - The decline in the 1980s may have been the result of greater professionalism of the teams and better logistics for the visitors.
 - Between 2020 and 2021, the impact of the pandemic may have reduced the effect, but did not eliminate it completely.
 
-![Home Win Rate by Decade]
+![Home Win Rate by Decade](images/2.1 screenshot.png)
 ---
 
 ### 3️⃣ In which tournaments is the home advantage strongest?
@@ -44,7 +45,7 @@ We analyzed matches across decades:
 
 🏆 **Conclusion:** The advantage is **most pronounced in competitive matches**, especially major tournaments where pressure and support matter more.
 
-![Home Win Rate by Decade]
+![Home Win Rate by Decade](images/3.1 screenshot.png)
 ---
 
 ### 4️⃣ Which countries perform best at home?
