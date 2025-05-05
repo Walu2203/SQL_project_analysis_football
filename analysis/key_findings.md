@@ -68,6 +68,7 @@ Here are the top 10 countries with the highest win rate on home soil (min. 100 m
 |  Nigeria        |     207    |  139	 |  67.15  |
 
 🔥 **Conclusion:** The highest win rate on their home ground has Brazil which is one of the best nations in football
+
 ---
 
 ## ✅ Summary
