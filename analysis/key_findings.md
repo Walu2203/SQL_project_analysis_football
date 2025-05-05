@@ -20,7 +20,7 @@ We focus on four key research questions:
 
 ![Screenshot 2](images/1.2_screenshot.png)
 
-📌 **Conclusion:** Home teams win **twice as often** as away teams and score **~0.67 more goals per match**.
+**Conclusion:** Home teams win **twice as often** as away teams and score **~0.67 more goals per match**.
 
 ---
 
@@ -44,7 +44,7 @@ We analyzed matches across decades:
 - **Qualifiers:** 52.5%  
 - **Major Tournaments (e.g. World Cup):** **61.2%**
 
-🏆 **Conclusion:** The advantage is **most pronounced in competitive matches**, especially major tournaments where pressure and support matter more.
+**Conclusion:** The advantage is **most pronounced in competitive matches**, especially major tournaments where pressure and support matter more.
 
 ![Screenshot 4](images/3.1_screenshot.png)
 
@@ -67,11 +67,11 @@ Here are the top 10 countries with the highest win rate on home soil (min. 100 m
 |  Ghana	        |     200    |  135	 |  67.50  |
 |  Nigeria        |     207    |  139	 |  67.15  |
 
-🔥 **Conclusion:** The highest win rate on their home ground has Brazil which is one of the best nations in football
+**Conclusion:** The highest win rate on their home ground has Brazil which is one of the best nations in football
 
 ---
 
-## ✅ Summary
+## Summary
 
 - Home teams win **more often**, score **more goals**.
 - The effect is **decreasing over the decades**, but remains statistically relevant.
