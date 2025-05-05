@@ -12,15 +12,15 @@ We focus on four key research questions:
 - **Draws:** ~22.9%  
 - **Away Wins:** ~26.4%
 
+![Screenshot 1](images/1.1_screenshot.png)
+
 - **Average Goals per Match:**
   - Home Teams: **1.79**
   - Away Teams: **1.12**
 
+![Screenshot 2](images/1.2_screenshot.png)
+
 📌 **Conclusion:** Home teams win **twice as often** as away teams and score **~0.67 more goals per match**.
-
-![Screenshot 1](images/1.1_screenshot.png)
-
-![Screenshot 2](analysis/images/1.2_screenshot.png)
 
 ---
 
@@ -34,7 +34,7 @@ We analyzed matches across decades:
 - The decline in the 1980s may have been the result of greater professionalism of the teams and better logistics for the visitors.
 - Between 2020 and 2021, the impact of the pandemic may have reduced the effect, but did not eliminate it completely.
 
-![Screenshot 3](analysis/images/2.1_screenshot.png)
+![Screenshot 3](images/2.1_screenshot.png)
 
 ---
 
@@ -46,7 +46,7 @@ We analyzed matches across decades:
 
 🏆 **Conclusion:** The advantage is **most pronounced in competitive matches**, especially major tournaments where pressure and support matter more.
 
-![Screenshot 4](analysis/images/3.1_screenshot.png)
+![Screenshot 4](images/3.1_screenshot.png)
 
 ---
 
